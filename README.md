@@ -7,6 +7,10 @@ Data source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 # DESIGN PROCESS:
 There are many different ways to design a spam filtering system, but one common approach is to use machine learning algorithms. These algorithms can be trained on data sets of known and non-spam emails and then used to classify new emails.
 
+```bash
+   git clone https://github.com/mdriz22/IBM-NaanMudhalvan-.git
+   ```
+
 # innovation steps:
   1.Load and simplify the dataset. ...
 2.Explore the dataset: Bar Chart. ...
